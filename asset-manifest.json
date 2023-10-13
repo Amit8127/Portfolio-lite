@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "//amit8127.github.io/Portfolio-lite/static/css/main.88e6ce32.css",
-    "main.js": "//amit8127.github.io/Portfolio-lite/static/js/main.08deefc2.js",
-    "static/media/Amit_Pic.jpeg": "//amit8127.github.io/Portfolio-lite/static/media/Amit_Pic.fe99d6c49d81bf2f5655.jpeg",
-    "index.html": "//amit8127.github.io/Portfolio-lite/index.html",
-    "main.88e6ce32.css.map": "//amit8127.github.io/Portfolio-lite/static/css/main.88e6ce32.css.map",
-    "main.08deefc2.js.map": "//amit8127.github.io/Portfolio-lite/static/js/main.08deefc2.js.map"
+    "main.css": "/Portfolio-lite/static/css/main.88e6ce32.css",
+    "main.js": "/Portfolio-lite/static/js/main.762ec169.js",
+    "static/media/Amit_Pic.jpeg": "/Portfolio-lite/static/media/Amit_Pic.fe99d6c49d81bf2f5655.jpeg",
+    "index.html": "/Portfolio-lite/index.html",
+    "main.88e6ce32.css.map": "/Portfolio-lite/static/css/main.88e6ce32.css.map",
+    "main.762ec169.js.map": "/Portfolio-lite/static/js/main.762ec169.js.map"
   },
   "entrypoints": [
     "static/css/main.88e6ce32.css",
-    "static/js/main.08deefc2.js"
+    "static/js/main.762ec169.js"
   ]
 }
